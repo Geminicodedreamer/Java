@@ -1,0 +1,43 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GourmetCoffee",
+            "request": "launch",
+            "mainClass": "GourmetCoffee",
+            "projectName": "vscodejava_1c1c636e"
+        },
+        {
+            "type": "java",
+            "name": "Minesweeper",
+            "request": "launch",
+            "mainClass": "Minesweeper",
+            "projectName": "vscodejava_1c1c636e"
+        },
+        {
+            "type": "java",
+            "name": "GradeManagementSystem",
+            "request": "launch",
+            "mainClass": "GradeManagementSystem",
+            "projectName": "vscodejava_1c1c636e"
+        },
+        {
+            "type": "java",
+            "name": "Game",
+            "request": "launch",
+            "mainClass": "Game",
+            "projectName": "vscodejava_1c1c636e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "externalTerminal"
+        }
+    ]
+}
